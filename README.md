@@ -2,7 +2,7 @@
 
 Write a app that use the data api and shows a list of people filtered by the search input with the data below.
 
-- People result will be filtered by name or country.
+- People result will be filtered by name.
 - Filter must be trigger while user inputing data and not with submitting button.
 - Request to server must be performance optimize and efficent.
 
