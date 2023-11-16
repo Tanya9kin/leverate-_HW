@@ -1,8 +1,4 @@
-import {
-  Country,
-  GetCounriesRequest,
-  GetCounriesResponse,
-} from "./country.interface";
+import { GetCounriesRequest, GetCounriesResponse } from "./country.interface";
 import { GetPeopleRequest, GetPeopleResponse } from "./people.interface";
 import countriesData from "./country.data.json";
 import peopleData from "./people.data.json";
